@@ -1,0 +1,35 @@
+<html>
+<head>
+        <tjtle> Habiba hany 45  </title>
+</head>
+<body>
+<h1>حبيبه هاني محمد الغنيمي</h1>
+<h1>sec. 45</h1>
+<h1>الرقم الجامعي 2501483 </h1>
+<p>  بيحفظ الملفات علي الانترنت بدل الفلاشات و الاجهزه اللي عرضو للضياع و بيوفر حمايه و نسخ احتياكي للبيانات مع امكانيه التعديل عليه و المزامنه بين كل اجهزتك في ثواني. بيسعل مشاركه الملفات و الشغل الجماعي برابط واحد و كمان بيضمن اعلي مستويات الامان و التشفير Google Drive التخزين السحابي زي 
+<hr>
+<img src="image. jpg"  alt="html"  width="100">
+<hr>
+<table border="1">
+<tr>
+    <th>الاسم</th>
+    <th>العمر</th>
+</tr>
+<tr>
+<td>حبيبه هاني </td>
+<td>19</td>
+</tr>
+</table>
+<hr>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+</ul>
+<hr>
+<"a href="https://www.google.com"target="_blank"> google </a>
+<hr>
+<marquee behavior="scro11" direction="right"> hello </marquee>
+
+</body>
+</html>
